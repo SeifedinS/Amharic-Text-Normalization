@@ -13,7 +13,7 @@ Text normalization or the conversion of NSW into standard words is an important 
 
 
 ### Files used
-- Amharic text crawled from the web.
+- Amharic text
 
 
 ### Software requirements
