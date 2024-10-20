@@ -1,6 +1,7 @@
 
 # -*- coding: utf-8 -*-
 
+# mukera 1 2 3
 
 ByOne = [
 "ዜሮ",
