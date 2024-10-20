@@ -3,6 +3,7 @@
 
 # mukera 1 2 3
 # mukera 1 2 3
+# mukera 123
 
 ByOne = [
 "ዜሮ",
