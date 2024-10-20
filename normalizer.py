@@ -1,6 +1,6 @@
 import sys 
 
-
+# mukera 123
 import codecs
 import re
 import  num_generator as ng
